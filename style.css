@@ -60,3 +60,7 @@ input[type='button'][value='='] {
     color: #ffffff;
     border-bottom-right-radius: 5px;
 }
+/* input:hover {
+    background-color: #ec2629; */
+    /* opacity: 0.5; */
+/* } */
